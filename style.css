@@ -22,7 +22,7 @@ header h1 {
 }
 
 nav a {
-    color: red;
+    color: rgb(21, 4, 253);
     text-decoration: none;
     margin-right: 16px;
 }
@@ -47,7 +47,7 @@ section h2 {
 }
 
 footer {
-    background-color: white;
+    background-color:rgba(0, 0, 0, 0.404);
     text-align: center;
     
 }
